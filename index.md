@@ -55,6 +55,8 @@ are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
+<h2> Registration </h2>
+<p>If nothing is displayed, please make sure you're not blocking eventbrite.com</p>
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
