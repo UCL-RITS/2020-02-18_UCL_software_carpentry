@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "UCL"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Christopher Ingold Cluster, Christopher Ingold Building, University College London, 20 Gordon Street, London, WC1H 0AJ"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "G20 Christopher Ingold Public Cluster, Christopher Ingold Building, University College London, 20 Gordon Street, London, WC1H 0AJ"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "51.525388"     # decimal latitude of workshop venue (use https://www.latlong.net/)
